@@ -1,5 +1,5 @@
 ---
-title: [Kontakty](kontakty)
+title: Kontakty
 ---
 **Adresa hřiště**
 Májová 737
