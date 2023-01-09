@@ -1,3 +1,6 @@
+---
+title: Domovská stránka
+---
 # O našem klubu
 Chceš-li se něco málo dozvědět o našem klubu TJ Sokol Velké Přílepy? Stačí kliknout pouze sem a hned tě přeneseme k těmto informacím :)
 # Seznam hráčů
