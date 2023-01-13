@@ -10,5 +10,5 @@ Nevíš si s něčím rady nebo chceš něco poradit? Podívej se na naše konta
 První, co uvidíš, je mapa k našemu fotbalovému hřišti, takže když nás budeš chtít navštívit, víš, kam máš jít, a my tě rádi uvidíme. Při zápase si nezapomeň dát něco z našeho občerstvení (pivo nebo něco z našeho grilu).
 # Fotogalerie
 Podívej se na fotky jednotlivých zápasů, kde se naši kluci snaží ze všech sil. Z důvodu ochrany GDPR tam nejsou zachyceni diváci. Pokud by tě ale zajímalo, zda si byl/a zachycen/a na objektiv našeho přílepského fotografa Edy Bláhy, můžeš ho kontaktovat přes e-mail: Rebbeda@seznam.cz
-# Tabulky
+# [Tabulky](tabulky)
 Víš, kolikátí jsme v tabulce naší ligy? Víš, kdy nás čeká další zápas? Jestli je tvá odpověď NE, tak se proklikni k našim odkazům, které tě zavedou tam, kde se vše dozvíš.
