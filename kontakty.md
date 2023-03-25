@@ -1,12 +1,6 @@
 ---
 title: Kontakty
 ---
-### Adresa hřiště
-Májová 737
-
-252 64 Velké Přílepy
-
-Česká republika
 
 ### Adresa hřiště
 Májová 737
